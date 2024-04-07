@@ -1,8 +1,10 @@
 # Yojna_Connect
 
-Run:
+To Run:
 
 cd yojnaConnect
+npm install
+
 npm expo start
 
 press w to open on web
