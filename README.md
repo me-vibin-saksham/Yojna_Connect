@@ -1,5 +1,9 @@
 # Yojna_Connect
 
+<h2>Team Project For Haccacino Hackathon </h2>
+Saksham Singhal : Code Implementation 
+Harikant Bajaj : Database Creation
+
 To Run:
 
 cd yojnaConnect
