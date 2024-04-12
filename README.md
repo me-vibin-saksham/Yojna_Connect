@@ -11,7 +11,6 @@ Ayush Raghuvanshi : Database modeling & Designing
 
 
 <h2>To Run Project Locally :</h2>
-<br>
 npm install
 <br>
 npm expo start
